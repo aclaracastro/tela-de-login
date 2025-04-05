@@ -18,6 +18,8 @@
 
 # janela.mainloop()
 
+
+#codigo deepseek pra ver como funciona
 import customtkinter as ctk
 
 # Configuração da janela principal
